@@ -101,4 +101,60 @@
     "category": "subscriptions",
     "text": "Companies must clearly disclose auto-renewal terms before purchase, provide easy cancellation mechanisms, and send reminders before renewal charges are processed."
   }
+
+  {
+  "id": "india_dpdp_001",
+  "regulation": "DPDP Act 2023",
+  "category": "consent",
+  "text": "Personal data must be processed only for lawful purposes and with valid consent from the data principal. Consent must be free, specific, informed, and unambiguous."
+},
+{
+  "id": "india_dpdp_002",
+  "regulation": "DPDP Act 2023",
+  "category": "data_usage",
+  "text": "Data fiduciaries must process personal data only for the purpose specified at the time of collection and cannot use it for unrelated purposes without fresh consent."
+},
+{
+  "id": "india_dpdp_003",
+  "regulation": "DPDP Act 2023",
+  "category": "data_retention",
+  "text": "Personal data should not be retained beyond the purpose for which it was collected. Data must be deleted once the purpose is fulfilled unless retention is required by law."
+},
+{
+  "id": "india_dpdp_004",
+  "regulation": "DPDP Act 2023",
+  "category": "data_security",
+  "text": "Organizations must implement reasonable security safeguards to prevent data breaches and must notify authorities and affected individuals in case of a breach."
+},
+{
+  "id": "india_it_001",
+  "regulation": "IT Act 2000 (Section 43A)",
+  "category": "data_security",
+  "text": "Companies handling sensitive personal data must implement reasonable security practices. Failure leading to wrongful loss or gain can result in liability."
+},
+{
+  "id": "india_consumer_001",
+  "regulation": "Consumer Protection Act 2019",
+  "category": "unfair_terms",
+  "text": "Unfair contract terms that cause significant imbalance to the consumer may be declared void. Businesses must ensure transparency and fairness in terms."
+},
+{
+  "id": "india_consumer_002",
+  "regulation": "Consumer Protection Act 2019",
+  "category": "refunds",
+  "text": "Refund policies must clearly specify timelines, eligibility conditions, and procedures. Ambiguous refund clauses may be considered unfair trade practice."
+},
+{
+  "id": "india_ecommerce_001",
+  "regulation": "E-Commerce Rules 2020",
+  "category": "transparency",
+  "text": "E-commerce entities must clearly display terms of sale, refund, return, warranty, and grievance redressal mechanisms."
+},
+{
+  "id": "india_ecommerce_002",
+  "regulation": "E-Commerce Rules 2020",
+  "category": "grievance",
+  "text": "E-commerce platforms must appoint a grievance officer and provide contact details for consumer complaints."
+}
 ]
+
