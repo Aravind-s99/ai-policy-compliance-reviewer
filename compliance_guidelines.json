@@ -1,0 +1,104 @@
+[
+  {
+    "id": "gdpr_001",
+    "regulation": "GDPR Article 5",
+    "category": "data_collection",
+    "text": "Personal data must be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes."
+  },
+  {
+    "id": "gdpr_002",
+    "regulation": "GDPR Article 5(1)(e)",
+    "category": "data_retention",
+    "text": "Personal data must be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed. Data controllers must define retention periods."
+  },
+  {
+    "id": "gdpr_003",
+    "regulation": "GDPR Article 7",
+    "category": "consent",
+    "text": "Where processing is based on consent, the controller must be able to demonstrate that the data subject has consented. The request for consent must be presented in a clear and plain language."
+  },
+  {
+    "id": "gdpr_004",
+    "regulation": "GDPR Article 13",
+    "category": "transparency",
+    "text": "At the time when personal data are obtained, the controller shall provide the data subject with information including the purposes and legal basis for processing, recipients, retention period, and rights of the data subject."
+  },
+  {
+    "id": "gdpr_005",
+    "regulation": "GDPR Article 17",
+    "category": "right_to_erasure",
+    "text": "The data subject shall have the right to obtain erasure of personal data without undue delay. The controller shall have the obligation to erase personal data without undue delay."
+  },
+  {
+    "id": "ccpa_001",
+    "regulation": "CCPA Section 1798.100",
+    "category": "data_rights",
+    "text": "A consumer shall have the right to request that a business disclose the categories and specific pieces of personal information it has collected about that consumer."
+  },
+  {
+    "id": "ccpa_002",
+    "regulation": "CCPA Section 1798.120",
+    "category": "opt_out",
+    "text": "A consumer shall have the right to direct a business that sells or shares personal information to third parties to not sell or share the consumer's personal information (opt-out right)."
+  },
+  {
+    "id": "ftc_001",
+    "regulation": "FTC Act Section 5",
+    "category": "unfair_practices",
+    "text": "Unfair or deceptive acts or practices in or affecting commerce are unlawful. This includes misleading terms of service, hidden fees, and automatic renewal without adequate notice."
+  },
+  {
+    "id": "consumer_001",
+    "regulation": "EU Consumer Rights Directive",
+    "category": "refunds",
+    "text": "Consumers have the right to withdraw from a contract within 14 days without giving any reason. Traders must inform consumers about this right in plain and clear language."
+  },
+  {
+    "id": "consumer_002",
+    "regulation": "UK Consumer Rights Act 2015",
+    "category": "unfair_terms",
+    "text": "A term of a consumer contract is unfair if, contrary to the requirement of good faith, it causes a significant imbalance in the parties' rights and obligations under the contract, to the detriment of the consumer."
+  },
+  {
+    "id": "contract_001",
+    "regulation": "Contract Law Best Practice",
+    "category": "liability",
+    "text": "Limitation of liability clauses should be reasonable and proportionate. Courts may strike down clauses that exclude liability for gross negligence or attempt to limit liability in a disproportionate way."
+  },
+  {
+    "id": "contract_002",
+    "regulation": "Contract Law Best Practice",
+    "category": "termination",
+    "text": "Termination clauses should specify the notice period required, grounds for termination, and consequences of termination including data handling and fee obligations."
+  },
+  {
+    "id": "contract_003",
+    "regulation": "Contract Law Best Practice",
+    "category": "governing_law",
+    "text": "Every contract should specify the governing law and jurisdiction to prevent disputes about which legal system applies. This is especially important for cross-border agreements."
+  },
+  {
+    "id": "ip_001",
+    "regulation": "IP Best Practice",
+    "category": "intellectual_property",
+    "text": "License grants to user-generated content should be limited to what is necessary for service operation. Broad assignments of IP rights without compensation may be challenged as unconscionable."
+  },
+  {
+    "id": "security_001",
+    "regulation": "GDPR Article 32",
+    "category": "data_security",
+    "text": "The controller and processor shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including encryption and pseudonymisation."
+  },
+  {
+    "id": "children_001",
+    "regulation": "COPPA",
+    "category": "children_data",
+    "text": "Operators of websites and online services directed to children under 13 must obtain verifiable parental consent before collecting personal information from children."
+  },
+  {
+    "id": "auto_renew_001",
+    "regulation": "FTC Negative Option Rule",
+    "category": "subscriptions",
+    "text": "Companies must clearly disclose auto-renewal terms before purchase, provide easy cancellation mechanisms, and send reminders before renewal charges are processed."
+  }
+]
